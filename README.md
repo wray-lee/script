@@ -37,8 +37,8 @@ Usage:
 | 1        | wget -qO- git.io/superbench.sh | bash       |
 | 2        | curl -Lso- git.io/superbench.sh | bash      |
 | 3        | wget -qO- oldking.net/superbench.sh | bash  |
-| 4        | wget -qO- bench.sh | bash           |       |
-| 5        | wget -qO- 86.re/bench.sh | bash     |       |
+| 4        | wget -qO- bench.sh                  | bash  |
+| 5        | wget -qO- 86.re/bench.sh            | bash  |
 ```
  
 
